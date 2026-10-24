@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Semana 9</string>
+    <string name="titulo">Elementos multimedia</string>
+    <string name="descripcion_imagen">Imagen de un paisaje de montaña</string>
+    <string name="btn_animar">Animar imagen (fade in)</string>
+    <string name="btn_galeria">Cargar última foto de la galería</string>
+    <string name="btn_audio_play">Reproducir audio</string>
+    <string name="btn_audio_stop">Detener audio</string>
+    <string name="btn_video_play">Reproducir video</string>
+    <string name="msg_permiso_denegado">Permiso denegado: no se puede leer la galería</string>
+    <string name="msg_permiso_denegado_permanente">Permiso denegado. Puedes activarlo en Ajustes de la app</string>
+    <string name="msg_sin_imagenes">No hay imágenes en la galería</string>
+    <string name="msg_error_imagen">No se pudo cargar la imagen</string>
+</resources>
